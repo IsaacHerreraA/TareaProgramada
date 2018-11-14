@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+int main ()
+{
+  cout << "tilt";
+  return 0;
+}
